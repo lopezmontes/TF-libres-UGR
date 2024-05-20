@@ -96,7 +96,8 @@ añádelo y haz un *pull request*.
 
 | Alumna/o | Tutora/o | Enlace al repo | Programa doctorado | Enlace al código (si diferente) |
 | -------- | -------- | -------------- | -------------------| --------------------------------|
-|[Pablo García Sánchez](http://github.com/fergunet)|[Juan Julián Merelo Guervós](http://github.com/JJ), [Jesús González](https://github.com/jesusatc/) y Alberto Prieto|[Service Oriented Architecture for Adaptive Evolutionary Algorithms: Implementation and Applications](https://github.com/fergunet/tesis)|Programa de Doctorado en Ingeniería de Computadores y Redes (ATC)|[OsgiLiath](http://github.com/fergunet/osgiliath)|
+|[Pablo García Sánchez](http://github.com/fergunet)|[Juan Julián Merelo Guervós](http://github.com/JJ), [Jesús González](https://github.com/jesusatc/) y Alberto Prieto|[Service Oriented Architecture for Adaptive Evolutionary Algorithms: Implementation and Applications](https://github.com/fergunet/tesis)|Programa de Doctorado en Ingeniería de Computadores y Redes (ATC)|[OsgiLiath](http://github.com/fergunet/osgiliath)| ||
+|[José López-Montes](https://www.lopezmontes.es)|[Miguel Molina-Solana](https://miguelmolina.me/) y Waldo Fajardo|[GenoMus: Towards artificial creativity through metaprogramming of musical genotypes](https://www.lopezmontes.es/archivos/pdf/Tesis_GenoMus-JoseLopezMontes.pdf)|Programa de Doctorado en Tecnologías de la Información y la Comunicación (Soft Computing)|[GenoMus](https://genomus.dev)|
 
 ## Otros trabajos (de asignatura, de investigación)
 
